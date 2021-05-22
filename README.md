@@ -1,2 +1,2 @@
-# jubaer.github.io
+# jubaer
 Config files for my GitHub profile.
